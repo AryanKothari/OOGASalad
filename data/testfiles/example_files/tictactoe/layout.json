@@ -1,0 +1,15 @@
+{
+  "ID": {
+    "position": {
+      "x": "horizontal placement",
+      "y": "vertical placement",
+      "width": "width of node",
+      "height": "height of node"
+    },
+    "connections": {
+      "EdgeName1": "ID1",
+      "EdgeName2": "ID1",
+      "EdgeName3": "ID1"
+    }
+  }
+}
